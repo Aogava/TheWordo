@@ -1,0 +1,11 @@
+.tools__enter-image-container > label {
+  /* height: 3vw; */
+  /* display: flex;
+  align-items: center; */
+  padding: 1vw;
+}
+
+.tools__enter-image-container > label:hover {
+  background-color: rgb(215, 233, 251);
+  cursor: pointer;
+}
